@@ -1,13 +1,11 @@
-# Telephone-Number-Validator
-In the US, phone numbers can be formatted in many ways. Here are some examples of valid formats for US phone numbers:
+# freeCodeCamp - Legacy JavaScript Algorithms and Data Structures Certification
+## Certification Project: Telephone Number Validator
+This is one of the required projects to earn your certification.
 
-1 555-555-5555
-1 (555) 555-5555
-1(555)555-5555
-1 555 555 5555
-5555555555
-555-555-5555
-(555)555-5555
+For this project, you'll build an application that checks if a number is a valid United States phone number.
+
+### Verify this certification at: https://www.freecodecamp.org/certification/Johncent-Developer/javascript-algorithms-and-data-structures
 
 # Lessons Learned
 * Hardcore Regex...
+* As they say, the plural of Regex is Regret.
